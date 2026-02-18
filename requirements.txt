@@ -1,15 +1,8 @@
 streamlit
-
-yfinance
-
-pandas
-
-numpy
-
-plotly
-
-scikit-learn (nodig voor de LinearRegression)
-
-beautifulsoup4 (nodig voor de earnings scraper)
-
 requests
+pandas
+numpy
+plotly
+yfinance
+scikit-learn
+beautifulsoup4
